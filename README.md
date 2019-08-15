@@ -1,2 +1,2 @@
 # Hammer-DDoS
-just another reporsitivi
+just another reporsitory
